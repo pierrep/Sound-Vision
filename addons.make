@@ -1,0 +1,10 @@
+ofxGui
+ofxOpenCv
+ofxOsc
+ofxXmlSettings
+ofxAppUtils
+ofxBox2d
+ofxGpuParticles
+ofxKinectForWindows2
+ofxPostProcessing
+ofxTween
